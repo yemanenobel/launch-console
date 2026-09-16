@@ -1,5 +1,4 @@
 # launch-console
 
-This is a repo.
-Oh, yes it is!
-It is a great repo!
+## Day 1 at my startup
+Today I joined my squad and made my first commit. Excited to start building.
